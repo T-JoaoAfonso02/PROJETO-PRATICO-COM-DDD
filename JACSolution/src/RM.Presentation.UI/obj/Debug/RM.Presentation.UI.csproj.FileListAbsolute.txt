@@ -1,0 +1,696 @@
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.Compression.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/VBCSCompiler.exe
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/ApplicationInsights.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/csc.exe
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/csc.exe.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/csc.rsp
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/csi.exe
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/csi.exe.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/csi.rsp
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.AppContext.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Console.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Diagnostics.Process.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.Pipes.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Claims.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Threading.Thread.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.ValueTuple.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/vbc.exe
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/vbc.exe.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/vbc.rsp
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Antlr3.Runtime.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.SqlServer.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.Web.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.ApplicationInsights.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Newtonsoft.Json.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Owin.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Application.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Infra.CrossCutting.IoC.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.Mvc.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Helpers.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Mvc.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Optimization.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Razor.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Razor.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/WebActivator.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/WebGrease.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Data.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Domain.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/AutoMapper.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Shared.Domain.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/DomainValidation.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Application.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Infra.CrossCutting.IoC.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.Mvc.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Helpers.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Mvc.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Optimization.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.Razor.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Razor.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Antlr3.Runtime.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Newtonsoft.Json.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.SqlServer.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.ApplicationInsights.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.Web.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Data.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Data.dll.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Domain.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/AutoMapper.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Shared.Domain.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.csprojResolveAssemblyReference.cache
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.csproj.CoreCompileInputs.cache
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Presentation.UI.dll.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Presentation.UI.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Presentation.UI/bin/RM.Presentation.UI.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/ApplicationInsights.config
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/csc.exe
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/csc.exe.config
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/csc.rsp
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/csi.exe
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/csi.exe.config
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/csi.rsp
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.AppContext.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Collections.Immutable.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Console.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Diagnostics.Process.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.Compression.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.FileSystem.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.IO.Pipes.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Reflection.Metadata.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.AccessControl.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Claims.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Threading.Thread.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.ValueTuple.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.XPath.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/vbc.exe
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/vbc.exe.config
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/vbc.rsp
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/VBCSCompiler.exe
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/roslyn/VBCSCompiler.exe.config
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Presentation.UI.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Presentation.UI.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Antlr3.Runtime.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.SqlServer.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.DependencyCollector.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.Web.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.WindowsServer.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.ApplicationInsights.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Core.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Owin.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Cookies.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Facebook.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Google.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.OAuth.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Twitter.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Web.Infrastructure.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Newtonsoft.Json.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Owin.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Application.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Infra.CrossCutting.IoC.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.Mvc.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Helpers.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Mvc.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Optimization.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Razor.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Deployment.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Razor.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/WebActivator.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/WebGrease.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Data.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Domain.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/AutoMapper.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Shared.Domain.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/DomainValidation.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Application.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Infra.CrossCutting.IoC.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/SimpleInjector.Integration.Web.Mvc.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Helpers.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Mvc.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Optimization.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.Razor.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Deployment.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/System.Web.WebPages.Razor.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Antlr3.Runtime.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Newtonsoft.Json.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/EntityFramework.SqlServer.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Core.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.Owin.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Facebook.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Cookies.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.OAuth.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Google.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.Twitter.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.ApplicationInsights.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.DependencyCollector.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.ServerTelemetryChannel.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.WindowsServer.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/Microsoft.AI.Web.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Data.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Data.dll.config
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Domain.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/AutoMapper.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/bin/RM.Shared.Domain.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.csprojResolveAssemblyReference.cache
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Presentation.UI/obj/Debug/RM.Presentation.UI.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\ApplicationInsights.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.rsp
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.rsp
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.AppContext.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Console.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.Process.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.Compression.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.Pipes.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.AccessControl.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Claims.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Principal.Windows.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Threading.Thread.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.ValueTuple.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XmlDocument.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XPath.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.rsp
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.dll.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Agent.Intercept.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.DependencyCollector.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Web.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.WindowsServer.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.ApplicationInsights.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Core.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Cookies.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Facebook.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Google.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.OAuth.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Twitter.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Owin.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Application.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Infra.CrossCutting.IoC.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.Mvc.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\WebActivator.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Data.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Domain.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\AutoMapper.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Shared.Domain.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\DomainValidation.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Application.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Infra.CrossCutting.IoC.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.Mvc.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Core.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Facebook.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Cookies.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.OAuth.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Google.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Twitter.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.ApplicationInsights.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.DependencyCollector.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.WindowsServer.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Web.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Data.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Domain.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\AutoMapper.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Shared.Domain.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\ApplicationInsights.config
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.exe.config
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.rsp
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.exe
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.exe.config
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.rsp
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.AppContext.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Console.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.Process.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.Compression.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.Pipes.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.AccessControl.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Claims.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Principal.Windows.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Threading.Thread.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.ValueTuple.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XmlDocument.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XPath.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.exe.config
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.rsp
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.dll.config
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Agent.Intercept.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.DependencyCollector.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Web.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.WindowsServer.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.ApplicationInsights.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Core.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Cookies.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Facebook.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Google.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.OAuth.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Twitter.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Owin.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Application.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Infra.CrossCutting.IoC.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.Mvc.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\WebActivator.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Data.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Domain.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\AutoMapper.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Shared.Domain.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\DomainValidation.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Application.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Infra.CrossCutting.IoC.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.Mvc.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Core.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Facebook.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Cookies.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.OAuth.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Google.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Twitter.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.ApplicationInsights.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.DependencyCollector.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.WindowsServer.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Web.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Data.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Domain.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\AutoMapper.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\bin\RM.Shared.Domain.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\ApplicationInsights.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.exe
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.exe.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\csc.rsp
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.exe
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.exe.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\csi.rsp
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Console.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.Process.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.IO.Pipes.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.AccessControl.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Claims.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Security.Principal.Windows.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Threading.Thread.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.exe
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.exe.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\vbc.rsp
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.dll.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Presentation.UI.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Antlr3.Runtime.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Owin.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Application.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Infra.CrossCutting.IoC.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.Mvc.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Helpers.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Mvc.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Optimization.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Razor.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\WebActivator.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\WebGrease.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Data.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Domain.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\AutoMapper.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Shared.Domain.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\DomainValidation.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Application.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Infra.CrossCutting.IoC.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\SimpleInjector.Integration.Web.Mvc.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Helpers.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Mvc.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Optimization.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.Razor.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Data.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Data.dll.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Domain.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\AutoMapper.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\bin\RM.Shared.Domain.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.csproj.CopyComplete
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Presentation.UI\obj\Debug\RM.Presentation.UI.pdb

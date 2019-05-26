@@ -1,0 +1,64 @@
+﻿@model IEnumerable<RM.Application.ViewModels.TransportadoraViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2></h2>
+
+@*<p>
+    @Html.ActionLink("Nova Transportadora", "Create")
+
+    
+</p>*@
+
+<span>
+    @Html.ActionLink("  Nova Transportadora", "Create", null, new { @class = "btn btn-success" })
+</span>
+
+<p></p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RazaoSocial)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fantasia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CNPJ)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InscricaoEstadual)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.RazaoSocial)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fantasia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CNPJ)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InscricaoEstadual)
+        </td>
+        <td>
+            
+
+            <a href="@Url.Action("Edit", new { id = item.Id })" class="btn btn-warning">Editar</a>
+            <a href="@Url.Action("Details", new { id = item.Id })" class="btn btn-primary">Detalhes</a>
+            <a href="@Url.Action("Delete",new {id=item.Id})" class="btn btn-danger">Excluir</a>
+
+
+
+        </td>
+    </tr>
+}
+
+</table>

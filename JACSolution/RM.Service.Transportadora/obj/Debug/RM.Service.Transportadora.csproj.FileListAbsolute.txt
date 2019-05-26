@@ -1,0 +1,172 @@
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\csc.exe
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\csc.exe.config
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\csc.rsp
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\csi.exe
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\csi.exe.config
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\csi.rsp
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.AppContext.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Console.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.Compression.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Claims.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.ValueTuple.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\vbc.exe
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\vbc.exe.config
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\vbc.rsp
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Service.Transportadora.dll.config
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Service.Transportadora.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Service.Transportadora.pdb
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\Newtonsoft.Json.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Application.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Infra.CrossCutting.IoC.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\System.Net.Http.Formatting.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.WebHost.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\WebActivator.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Data.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Domain.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\AutoMapper.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Shared.Domain.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\DomainValidation.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\EntityFramework.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Application.pdb
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Infra.CrossCutting.IoC.pdb
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\Newtonsoft.Json.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\System.Net.Http.Formatting.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.WebHost.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Data.pdb
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Data.dll.config
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Domain.pdb
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\AutoMapper.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\RM.Shared.Domain.pdb
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\bin\EntityFramework.xml
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\obj\Debug\RM.Service.Transportadora.csprojResolveAssemblyReference.cache
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\obj\Debug\RM.Service.Transportadora.csproj.CoreCompileInputs.cache
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\obj\Debug\RM.Service.Transportadora.dll
+C:\Users\Moura\Documents\Visual Studio 2017\Projeto\RMSolution\RM.Service.Transportadora\obj\Debug\RM.Service.Transportadora.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\csc.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\csc.rsp
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\csi.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\csi.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\csi.rsp
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.AppContext.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Console.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Diagnostics.Process.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.Compression.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.FileSystem.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.IO.Pipes.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.AccessControl.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Claims.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Security.Principal.Windows.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Threading.Thread.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.ValueTuple.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.ReaderWriter.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.XmlDocument.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.XPath.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\vbc.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\vbc.rsp
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Service.Transportadora.dll.config
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Service.Transportadora.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Service.Transportadora.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Application.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Infra.CrossCutting.IoC.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.Integration.WebApi.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\WebActivator.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Data.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Domain.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\AutoMapper.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Shared.Domain.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\DomainValidation.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Application.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Infra.CrossCutting.IoC.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\SimpleInjector.Integration.WebApi.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Data.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Domain.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\AutoMapper.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\RM.Shared.Domain.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\obj\Debug\RM.Service.Transportadora.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\obj\Debug\RM.Service.Transportadora.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\RM.Service.Transportadora\obj\Debug\RM.Service.Transportadora.pdb

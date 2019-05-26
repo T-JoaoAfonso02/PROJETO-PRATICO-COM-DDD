@@ -1,0 +1,53 @@
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/bin/Debug/DomainValidation.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.csprojResolveAssemblyReference.cache
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/DomainValidation.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.csprojResolveAssemblyReference.cache
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.pdb
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.dll
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.pdb
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/DomainValidation.dll
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.dll
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.pdb
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.csprojResolveAssemblyReference.cache
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.dll
+//vmware-host/Shared Folders/Downloads/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.pdb
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.dll
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Domain.pdb
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/bin/Debug/DomainValidation.dll
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.dll
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/bin/Debug/RM.Shared.Domain.pdb
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.csprojResolveAssemblyReference.cache
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.csproj.CoreCompileInputs.cache
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.dll
+/Users/user/Documents/RMSolution/RMSolution/src/RM.Domain/obj/Debug/RM.Domain.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\bin\Debug\RM.Domain.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\bin\Debug\RM.Domain.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\bin\Debug\DomainValidation.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\bin\Debug\RM.Shared.Domain.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\bin\Debug\RM.Shared.Domain.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\bin\Debug\RM.Domain.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\bin\Debug\RM.Domain.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\bin\Debug\DomainValidation.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\bin\Debug\RM.Shared.Domain.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\bin\Debug\RM.Shared.Domain.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.csproj.CopyComplete
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Domain\obj\Debug\RM.Domain.pdb

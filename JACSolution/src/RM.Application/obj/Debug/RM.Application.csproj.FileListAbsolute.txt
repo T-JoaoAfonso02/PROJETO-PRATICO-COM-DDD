@@ -1,0 +1,87 @@
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Application.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Application.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/AutoMapper.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/DomainValidation.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Data.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Domain.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Shared.Domain.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/EntityFramework.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Data.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Data.dll.config
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Domain.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/RM.Shared.Domain.pdb
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/AutoMapper.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/bin/Debug/EntityFramework.xml
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/obj/Debug/RM.Application.csprojResolveAssemblyReference.cache
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/obj/Debug/RM.Application.csproj.CoreCompileInputs.cache
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/obj/Debug/RM.Application.dll
+C:/Users/Moura/Documents/Visual Studio 2017/Projeto/RMSolution/src/RM.Application/obj/Debug/RM.Application.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Application.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Application.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/AutoMapper.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/DomainValidation.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Data.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Domain.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Shared.Domain.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/EntityFramework.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Data.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Data.dll.config
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Domain.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/RM.Shared.Domain.pdb
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/AutoMapper.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/bin/Debug/EntityFramework.xml
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/obj/Debug/RM.Application.csprojResolveAssemblyReference.cache
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/obj/Debug/RM.Application.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/obj/Debug/RM.Application.dll
+/Users/user/Downloads/RMSolution/RMSolution/src/RM.Application/obj/Debug/RM.Application.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Application.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Application.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\AutoMapper.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\DomainValidation.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Data.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Domain.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Shared.Domain.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Data.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Domain.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Shared.Domain.pdb
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\AutoMapper.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\obj\Debug\RM.Application.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\obj\Debug\RM.Application.dll
+\\vmware-host\Shared Folders\Downloads\RMSolution\RMSolution\src\RM.Application\obj\Debug\RM.Application.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Application.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Application.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\AutoMapper.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\DomainValidation.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Data.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Domain.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Shared.Domain.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Data.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Domain.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\RM.Shared.Domain.pdb
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\AutoMapper.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\obj\Debug\RM.Application.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\obj\Debug\RM.Application.dll
+\\vmware-host\Shared Folders\Documents\RMSolution\RMSolution\src\RM.Application\obj\Debug\RM.Application.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Application.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Application.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\AutoMapper.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\DomainValidation.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Data.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Domain.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Shared.Domain.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\EntityFramework.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Data.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Data.dll.config
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Domain.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\RM.Shared.Domain.pdb
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\AutoMapper.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\bin\Debug\EntityFramework.xml
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\obj\Debug\RM.Application.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\obj\Debug\RM.Application.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\obj\Debug\RM.Application.csproj.CopyComplete
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\obj\Debug\RM.Application.dll
+\\Mac\Home\Downloads\RMSolution\src\RM.Application\obj\Debug\RM.Application.pdb

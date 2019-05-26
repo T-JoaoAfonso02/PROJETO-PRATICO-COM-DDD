@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2D2AC6B4-9B3D-4DB4-953E-FD1AAF14297E}|">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="src/RM.Presentation.UI/Controllers/AccountController.cs" Line="245" Column="64" />
+      <File FileName="src/RM.Presentation.UI/Content/Site.css" Line="1" Column="1" />
+      <File FileName="src/RM.Infra.CrossCutting.IoC/SimpleInjector.cs" Line="13" Column="32" />
+      <File FileName="src/RM.Infra.CrossCutting.IoC/packages.config" Line="1" Column="1" />
+      <File FileName="src/RM.Shared.Domain/Helpers/TextoHelper.cs" Line="46" Column="28" />
+      <File FileName="src/RM.Shared.Domain/Entities/Entity.cs" Line="1" Column="1" />
+      <File FileName="src/RM.Shared.Domain/ObjectValues/CNPJ.cs" Line="68" Column="26" />
+      <File FileName="src/RM.Shared.Domain/ObjectValues/CPF.cs" Line="1" Column="1" />
+      <File FileName="src/RM.Shared.Domain/ObjectValues/Email.cs" Line="1" Column="1" />
+      <File FileName="src/RM.Shared.Domain/ObjectValues/InscricaoEstadual.cs" Line="1" Column="1" />
+      <File FileName="src/RM.Domain/Services/DepositanteService.cs" Line="21" Column="35" />
+      <File FileName="src/RM.Domain/Services/TransportadoraService.cs" Line="21" Column="1" />
+      <File FileName="src/RM.Domain/Models/Transportadora.cs" Line="1" Column="1" />
+      <File FileName="src/RM.Domain/Models/Depositante.cs" Line="10" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Documents/RMSolution/RMSolution/src/RM.Presentation.UI/App_Start/IdentityConfig.cs" relfile="src/RM.Presentation.UI/App_Start/IdentityConfig.cs" line="44" column="10" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.0-Presentations.RM.Presentation.UI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

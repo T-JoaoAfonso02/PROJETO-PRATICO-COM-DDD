@@ -1,0 +1,50 @@
+﻿@model RM.Application.ViewModels.TransportadoraViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+
+<div>
+    <h4>Detalhes - Transportadora</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RazaoSocial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RazaoSocial)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fantasia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fantasia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CNPJ)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CNPJ)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InscricaoEstadual)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InscricaoEstadual)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>
